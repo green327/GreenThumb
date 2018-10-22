@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e2c5cd34e48a2ac48a67fd1c72337b32
+timeCreated: 1539375319
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - seed: {fileID: 1627601690865248, guid: d392935bf3929ab4eab1d228184f488d, type: 2}
+  - medPlant: {fileID: 1801569029847288, guid: 0ee38da8860bc97428bcb5cbd763c9c6, type: 2}
+  - largePlant: {fileID: 1328650396783374, guid: 50e501fdffe6abb4da5af517d98c4d79,
+      type: 2}
+  - fruit: {fileID: 1386358833118740, guid: 2636df4ee16ccad4a8a3ae3781d83c71, type: 2}
+  - timer: {fileID: 1172914465081240, guid: 5fa06618094b0d845bde17758b3dc625, type: 2}
+  - tower: {fileID: 1491096656266510, guid: 7c2ca5db964ddc34780439f5cdb7e9d4, type: 2}
+  - WateredMaterial: {fileID: 2100000, guid: 68ca2b146dc595b49921bb9e293533be, type: 2}
+  - DryMaterial: {fileID: 2100000, guid: 13d186ab7bbfcd843b7056532f6d3002, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
